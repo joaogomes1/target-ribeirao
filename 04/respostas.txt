@@ -1,0 +1,12 @@
+Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+Resposta: nenhum dos dois, pois ambos estarão à mesma distância de Ribeirão Preto.
+
+a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
+
+Comentário: curiosamente a distância entre as cidades não faria diferença na resposta ao problema, pois ao se encontrarem, os veículos ainda assim estariam à mesma distância de Ribeirão Preto.
+
+b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
+
+Comentário: os pedágios também não fariam diferença na resposta ao problema, pois ao se encontrarem, os veículos ainda assim estariam à mesma distância de Ribeirão Preto.
+
