@@ -8,4 +8,4 @@ while ($K -lt $INDICE)
     $SOMA = $SOMA + $K;
 }
 
-write-host ($SOMA);
+write-host $SOMA;
